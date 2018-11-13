@@ -1,2 +1,8 @@
 # Discrete Mathematics
-ceiling, floor, modulo, permutations, fractional part,
+
+Following mathematics operations are implemented:
+⋅⋅* ceiling
+⋅⋅* floor
+⋅⋅* modulo
+⋅⋅* permutations
+⋅⋅* fractional part
